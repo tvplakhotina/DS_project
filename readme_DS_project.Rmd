@@ -1,0 +1,18 @@
+---
+title: "readme_DS_project"
+author: "Taisiia Plakhotina"
+date: "27 01 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Файл с описанием проекта
+
+Описание проекта
+
+```{r cars}
+
+```
